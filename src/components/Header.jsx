@@ -11,7 +11,7 @@ const Header = () => {
     <div className=" grid sm:flex gap-5 bg-black text-white pb-10">
       <div className="grid gap-5"> 
         <h1 className=" text-center  align-middle font-bold w-3/4  ml-auto mr-auto text-5xl sm:text-5xl md:text-6xl lg:text-7xl">
-          Find the place to live <span className="text-black text-stroke-white text-stroke-1">your dreams</span> easily here
+          Find the place to live <span className="text-amber-200">your dreams</span> easily here
         </h1>
         <p className="text-[15px] text-center">
           Everything you need about finding your place to live will be here,
