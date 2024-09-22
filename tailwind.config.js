@@ -6,8 +6,5 @@ export default {
   ],
   theme: {
     extend: {},
-  },
-  plugins: [
-    require('@designbycode/tailwindcss-text-stroke'),
-  ]
+  }
 }
